@@ -1,17 +1,14 @@
 # tienda_talavera
 
-A new Flutter project.
+Ronda 1
+paso 1.3
+$ flutter test
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Ronda 2
+Paso 2.1 Pruebas (ROJO)
 
-A few resources to get you started if this is your first Flutter project:
+<img width="914" height="167" alt="image" src="https://github.com/user-attachments/assets/d008aa53-f8fa-480b-9103-5fc02fadac79" />
+<img width="920" height="224" alt="image" src="https://github.com/user-attachments/assets/3f305b90-9513-4ea7-96be-45db724acc08" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
